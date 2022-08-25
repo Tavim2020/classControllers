@@ -9,7 +9,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   html {
-    font-size: 69.2%;
+    font-size: 62.5%;
   }
 `;
 

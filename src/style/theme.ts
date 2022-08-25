@@ -1,4 +1,21 @@
 const theme = {
+  colors: {
+    white: '#FDFBF8',
+  },
+  spacing: {
+    space04: '0.4rem',
+    space08: '0.8rem',
+    space1: '1rem',
+    space14: '1.4rem',
+    space16: '1.6rem',
+    space2: '2rem',
+    space24: '2.4rem',
+    space36: '3.6rem',
+    space48: '4.8rem',
+    space6: '6rem',
+    space8: '8rem',
+    space18: '18rem'
+  },
   font: {
     sizes: {
       xxsmall: '0.8rem',
